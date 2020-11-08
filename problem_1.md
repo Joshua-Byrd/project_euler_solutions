@@ -12,6 +12,8 @@ for (i = 1; i < 1000; i++) {
     }
 }
 
+//sum = 233168
+
 ```
 
 ## Python
@@ -19,5 +21,6 @@ for (i = 1; i < 1000; i++) {
 ```
 answer = sum([x for x in range(1000) if (x % 3 == 0) or (x % 5 == 0)])
 
+#answer = 233168
 
 ```
