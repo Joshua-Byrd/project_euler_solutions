@@ -16,7 +16,6 @@ while (num3 < 4000000){
     sum += num3;
   }
 }
-console.log(sum);
 
 //sum = 4613732
 
